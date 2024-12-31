@@ -1,7 +1,7 @@
-## Blinkit
+## Blinkit Model
 To conduct a comprehensive analysis of Blinkit sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPI’s and visualizations in PowerBI.
 
-Business requirements
+## Business requirements
 To conduct a comprehensive analysis of Blinkit sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPI’s and visualizations in PowerBI.
  KPI’s requirements
 1. Total sales – the overall revenue generated from all items sold
@@ -60,7 +60,6 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
 - **Chart types –** matrix cards
 
 ## Steps Taken
-# step-by-step process for creating the dashboard you described:
 
 **1. Import Data:** Load the dataset into Power BI. Ensure the data is clean and well-structured.
 
@@ -89,6 +88,21 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
 
 **8. Finalize and Review:**
 - Format the dashboard for a polished look, ensuring it aligns with the business requirements and provides actionable insights.
+
+<a href = "https://github.com/AnjaliBanga02/Blinkit/blob/main/BlinkIT%20Grocery%20Data.xlsx" >View Raw Data</a>
+
+
+<a href = "https://github.com/AnjaliBanga02/Blinkit/blob/main/Screenshot%202024-12-31%20164611.png"><View Dashboard</a>
+
+![Screenshot 2024-12-31 164611](https://github.com/user-attachments/assets/e0540a0e-ebe7-4f64-a84f-ac6ac860fd72)
+
+
+![Screenshot 2024-12-31 164902](https://github.com/user-attachments/assets/f6dbe989-fce1-4732-8e99-b9588819041b)
+
+
+
+
+
 
 
 
