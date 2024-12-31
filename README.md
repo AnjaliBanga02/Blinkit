@@ -89,10 +89,10 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
 **8. Finalize and Review:**
 - Format the dashboard for a polished look, ensuring it aligns with the business requirements and provides actionable insights.
 
-<a href = "https://github.com/AnjaliBanga02/Blinkit/blob/main/BlinkIT%20Grocery%20Data.xlsx" >View Raw Data</a>
+<a href = "https://github.com/AnjaliBanga02/Blinkit/blob/main/BlinkIT%20Grocery%20Data.xlsx">View Raw Data</a>
 
 
-<a href = "https://github.com/AnjaliBanga02/Blinkit/blob/main/Screenshot%202024-12-31%20164611.png"><View Dashboard</a>
+<a href = "https://github.com/AnjaliBanga02/Blinkit/blob/main/Screenshot%202024-12-31%20164611.png">View Dashboard</a>
 
 ![Screenshot 2024-12-31 164611](https://github.com/user-attachments/assets/e0540a0e-ebe7-4f64-a84f-ac6ac860fd72)
 
